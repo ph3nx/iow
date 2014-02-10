@@ -46,3 +46,4 @@ end
 
 gem 'haml'
 gem 'haml-rails'
+gem 'rails_12factor'
